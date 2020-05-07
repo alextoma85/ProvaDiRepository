@@ -16,8 +16,8 @@ master_doc = 'index'
 project = 'PROVA DOCUMENTAZIONE'
 copyright = '2016, AT'
 
-# The name of the Pygments (syntax highlighting) style to use.
-# pygments_style = 'sphinx'
+# The name of the Pygments (syntax highlighting) style to use. 
+pygments_style = 'sphinx'
 
 extlinks = {}
 
