@@ -17,7 +17,7 @@ project = 'PROVA DOCUMENTAZIONE'
 copyright = '2016, AT'
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'sphinx'
+# pygments_style = 'sphinx'
 
 extlinks = {}
 
@@ -37,17 +37,3 @@ def setup(app):
 """
 #latex_documents = []
 
-# -- read also .md files ---------------------------------------------------
-
-import recommonmark
-from recommonmark.transform import AutoStructify
-
-from recommonmark.parser import CommonMarkParser
-
-source_parsers = {
-    '.md': 'recommonmark.parser.CommonMarkParser',
-}
-
-source_suffix = ['.rst', '.md']
-
-extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
