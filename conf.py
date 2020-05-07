@@ -4,7 +4,7 @@
 # -- PROJECT Variables ----------------------------------------------------
 settings_project_name = "Agenda Digitale 2020 - 2023"
 settings_copyright_copyleft = "CC-BY 3.0"
-settings_editor_name = "Alex - Comune di trento"
+settings_editor_name = "Alex - Comune di Trento"
 settings_file_name = 'Agenda Digitale 20-23'
 
 
