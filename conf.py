@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 
 from __future__ import unicode_literals
 import sys, os
@@ -25,7 +25,7 @@ extlinks = {}
 
 html_theme = 'default'
 
-html_static_path = ['static']
+html_static_path = ['media']
 
 def setup(app):
     # overrides for wide tables in RTD theme
