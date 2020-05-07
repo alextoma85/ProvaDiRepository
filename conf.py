@@ -13,10 +13,10 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'PROVA DOCUMENTAZIONE'
-copyright = '2016, AT'
+project = 'ProvadiRepository'
+copyright = '2016, ProvadiRepository'
 
-# The name of the Pygments (syntax highlighting) style to use. 
+# The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
 
 extlinks = {}
@@ -25,7 +25,7 @@ extlinks = {}
 
 html_theme = 'default'
 
-html_static_path = ['media']
+html_static_path = ['static']
 
 def setup(app):
     # overrides for wide tables in RTD theme
@@ -36,4 +36,3 @@ def setup(app):
   Because the pdflatex raises exception when generate Latex documents with CKJ characters.
 """
 #latex_documents = []
-

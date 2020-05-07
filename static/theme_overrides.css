@@ -27,6 +27,3 @@
     /* draw a boder around a admonition */
     border-bottom: solid 1px #b59e9e !important;
 }
-
-/* adatta il nav-content a fullhd e si elimina lo spazio vuoto piccolo a destra */
-.wy-nav-content {max-width: 1920px;}
