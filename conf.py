@@ -37,6 +37,17 @@ def setup(app):
 """
 #latex_documents = []
 
-# inserire un logo in alto a sinistra (mettendo l’immagine nella cartella “static”)
-latex_logo = "static/immagine.jpg"
-html_logo = "static/immagine.jpg"
+# -- read also .md files ---------------------------------------------------
+
+import recommonmark
+from recommonmark.transform import AutoStructify
+
+from recommonmark.parser import CommonMarkParser
+
+source_parsers = {
+    '.md': 'recommonmark.parser.CommonMarkParser',
+}
+
+source_suffix = ['.rst', '.md']
+
+extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
