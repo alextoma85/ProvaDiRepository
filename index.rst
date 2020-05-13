@@ -5,8 +5,8 @@ data: 6 febbraio 2020
 
 redatto da:
 
-- Chiara Maule (Assessore con delega per le materie della 
-partecipazione, innovazione, formazione e progetti europei)
+- Chiara Maule (Assessore con delega per le materie della partecipazione,
+  innovazione, formazione e progetti europei)
 - Nicola Zanella (RTD e Dirigente Servizio Innovazione e servizi digitali)
 
 rivisto da:
