@@ -1,4 +1,4 @@
-L’architettura strategica di Trento città digitale 
+L’architettura strategica di Trento città digitale
 ===================================================
 
 L’architettura strategica che sta alla base dell’Agenda Digitale di
@@ -8,6 +8,8 @@ provinciali ed infine le imprese.
 
 La rappresentazione del modello strategico,che definisce il **sistema
 operativo della città** per macro ambiti, è la seguente:
+
+|image1|
 
 Le **Infrastrutture**, reti e datacenter, assicurano la base fisica di
 funzionamento dell’intera architettura. Su di esse appoggiano
@@ -47,3 +49,7 @@ far fronte alle necessità di coordinamento, gestione e monitoraggio
 delle attività funzionali allo sviluppo del Piano. È trasversale ad
 altri componenti e aggrega tutte le linee di azione, di governance e di
 supporto alle PA coinvolte nella realizzazione del Piano.
+
+.. |image1| image:: ./media/image1.png
+   :width: 4.46541in
+   :height: 5.09375in
