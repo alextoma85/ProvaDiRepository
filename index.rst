@@ -1,18 +1,20 @@
-**AGENDA DIGITALE 2020 - 2023
-DEL COMUNE DI TRENTO**
-
+AGENDA DIGITALE 2020 - 2023 DEL COMUNE DI TRENTO
+================================================
 versione: 1.1
 
 data: 6 febbraio 2020
 
-| redatto da: Chiara Maule (Assessore con delega per le materie della
+redatto da:
+- Chiara Maule (Assessore con delega per le materie della
   partecipazione, innovazione, formazione e progetti europei)
-| Nicola Zanella (RTD e Dirigente Servizio Innovazione e servizi
+- Nicola Zanella (RTD e Dirigente Servizio Innovazione e servizi
   digitali)
 
-rivisto da: Commissione Vigilanza
+rivisto da:
+- Commissione Vigilanza
 
-approvato da: Giunta Comunale
+approvato da:
+- Giunta Comunale
 
 Il presente documento formalizza l’Agenda Digitale del Comune di Trento
 per il triennio 2020 - 2022. Vi sono raccolte tutte le iniziative in
